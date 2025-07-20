@@ -1,0 +1,28 @@
+.hero {
+  background-image: url("../img/UNESCO-Site.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 90vh; /* full screen height */
+  padding: 0 15px;
+}
+.about-section {
+  background-color: #ffffff; /* white background */
+}
+
+.about-section h2 {
+  font-size: 2rem;
+  color: #2c3e50;
+  font-weight: 700;
+}
+
+.about-section p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #555;
+}
+
+.about-section img {
+  max-width: 100%;
+  border-radius: 8px;
+}
